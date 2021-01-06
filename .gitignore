@@ -1,0 +1,18 @@
+/cypress
+ /fixtures
+   - example.json
+   
+ 
+ /integration
+  /Automation_Script
+   - scripbox.spec.js
+   - Apitest.spec.js
+ 
+ 
+ /plugin
+  - index.js
+  
+ 
+ /support
+  - command.js
+  - index.js
