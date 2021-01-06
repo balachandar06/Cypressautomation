@@ -21,6 +21,4 @@ For Windows:-
 
 #To run single cypress script i.e 
 - Select on created spec.js file
-
-
-
+It will run based on the script in my case scripbox login page,user should see the plans and logout 
