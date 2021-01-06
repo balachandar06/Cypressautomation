@@ -9,3 +9,10 @@ cypressautomationtest
 #To run spec.js files go to Integration>>Automation_Script
 1.UI Automation.
 2.API Automation 
+
+For Windows:-
+#Need to install cypress
+- npm install cypress --save-dev
+
+#To run Cypress in windows
+- nodemodules\.bin\cypress open
