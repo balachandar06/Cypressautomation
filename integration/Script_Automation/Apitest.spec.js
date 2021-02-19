@@ -1,4 +1,4 @@
-describe('Api testing' , () => {
+describe('TESTING API ' , () => {
     Cypress.config('baseUrl' , 'http://dummy.restapiexample.com/api/v1')
       it('GET = read', () => {
           cy.request('GET' , '/employees').then((response) => {
